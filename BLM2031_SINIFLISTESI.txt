@@ -1,0 +1,6 @@
+NO: 18011060 / isim: Kagan / soyisim: Turkoglu / aldigi ders sayisi: 3 / harcadigi kredi adedi 9
+NO: 18011059 / isim: Ridvan Tarik / soyisim: yilmaz / aldigi ders sayisi: 4 / harcadigi kredi adedi 12
+NO: 18011058 / isim: Ahmet Ersin / soyisim: Destanoglu / aldigi ders sayisi: 2 / harcadigi kredi adedi 7
+NO: 18011057 / isim: Ferdi / soyisim: Kadioglu / aldigi ders sayisi: 4 / harcadigi kredi adedi 9
+NO: 18011049 / isim: Oguzhan / soyisim: Ozyakup / aldigi ders sayisi: 2 / harcadigi kredi adedi 6
+NO: 17011052 / isim: Ayse / soyisim: Koyuncu / aldigi ders sayisi: 2 / harcadigi kredi adedi 6

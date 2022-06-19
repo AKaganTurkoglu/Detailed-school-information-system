@@ -1,0 +1,7 @@
+18011060,Kagan,Turkoglu,3,9
+18011059,Ridvan Tarik,yilmaz,4,12
+18011058,Ahmet Ersin,Destanoglu,2,7
+18011057,Ferdi,Kadioglu,4,9
+18011049,Oguzhan,Ozyakup,2,6
+17011052,Ayse,Koyuncu,2,6
+16011031,Metin Ali,Feyyazoglu,0,0

@@ -1,0 +1,5 @@
+1,Yunus Emre,Selcuklu,Profesor Doktor
+2,Furkan,Cakmak,Arastirma Gorevlisi
+3,Banu,Diri,Profesor Doktor
+34,Erkan,Uslu,Docent Doktor
+78,Mehmet Amac,Guvensan,Doktor Ogretim Uyesi
